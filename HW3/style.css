@@ -1,0 +1,12 @@
+body {
+  background-color: aqua;
+}
+#iddate {
+  color: rgb(255, 0, 21);
+}
+.title {
+  color: blue;
+}
+* {
+  font-size: 30px;
+}
